@@ -1,7 +1,7 @@
 # 💫 About Me:
 Computer Science Student | AI & AR Developer | Unity | Docker | Git | Linux
 
-# 💫 About Me:
+# Portfolio Website:
 [https://portfolio-web-fxyizvc.vercel.app
 ](https://portfolio-web-fxyizvc.vercel.app/)
 
